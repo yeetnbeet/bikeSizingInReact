@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+div.App-Input {
+  background-color: rgb(219, 53, 53);
+
+}

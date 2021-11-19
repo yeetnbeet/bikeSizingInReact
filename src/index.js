@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import FitParam from './FitParam';
+import RiderFit from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <FitParam></FitParam>
+    <App></App>
   </React.StrictMode>,
   document.getElementById('root')
 );
